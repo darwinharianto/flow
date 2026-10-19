@@ -10,14 +10,14 @@ An elegant, optimal solver for Flow Free grid games that routes paths on arbitra
 ## Installation
 Clone the repository and install it in editable mode:
 ```bash
-git clone https://github.com/yourusername/flow_solver.git
-cd flow_solver
+git clone https://github.com/darwinharianto/flow.git
+cd flow
 pip install -e .
 ```
 
 ## Quick Start
 ```python
-from flow_solver.solver import validate_board_and_count_colors, initiate_model_with_param, solve_model
+from flow.solver import validate_board_and_count_colors, initiate_model_with_param, solve_model
 import matplotlib.pyplot as plt
 
 # -1 represents walls, positive integers represent matched endpoint pairs
