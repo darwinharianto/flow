@@ -1,6 +1,6 @@
 [![Build Status](https://github.com/darwinharianto/flow/actions/workflows/codecov.yml/badge.svg)](https://github.com/darwinharianto/flow/actions)
 [![codecov](https://codecov.io/gh/darwinharianto/flow/graph/badge.svg)](https://codecov.io/gh/darwinharianto/flow)
-[![Python Version](https://img.shields.io/badge/python-3.8%20%7C%203.9%20%7C%203.10%20%7C%203.11%20%7C%203.12-blue)](https://github.com/darwinharianto/flow)
+[![Python Version Support](https://img.shields.io/badge/python-3.10%20%7C%203.11%20%7C%203.12-blue.svg)](https://github.com/darwinharianto/flow)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # Flow Free Constraint Programming Solver
