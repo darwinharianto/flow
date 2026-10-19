@@ -7,7 +7,7 @@ name = "flow_solver"
 version = "0.1.0"
 description = "Constraint Programming solver for Flow grid games minimizing path turns."
 authors = [
-    { name="Your Name", email="your.email@example.com" }
+    { name="Darwin Harianto" }
 ]
 classifiers = [
     "Programming Language :: Python :: 3",
@@ -19,4 +19,10 @@ dependencies = [
     "numpy>=1.20.0",
     "matplotlib>=3.4.0",
     "ortools>=9.0.0"
+]
+
+[project.optional-dependencies]
+test = [
+    "pytest>=7.0.0",
+    "pytest-cov>=4.0.0"
 ]
